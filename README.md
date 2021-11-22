@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanchari1403
 - 👀 I’m interested in Data Science and ML, reading books, Kayaking and I'm a big time biriyani freak!
-- 🌱 I’m currently learning how to be on the wrong side of 20 :3
+- 🌱 I’m currently learning how to be on the wrong side of 25 :3
 - 💞️ I’m looking to collaborate on any project concentrating on Computer Vision and Image Processing.
 - 📫 Reach me at sanchari.gautam@gmail.com
 
